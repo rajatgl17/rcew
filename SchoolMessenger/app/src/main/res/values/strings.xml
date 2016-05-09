@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RCEW</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="branches">
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Electronics and Communication</item>
+        <item>Electrical</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>I year</item>
+        <item>II year</item>
+        <item>III year</item>
+        <item>IV year</item>
+    </string-array>
+</resources>

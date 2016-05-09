@@ -1,0 +1,37 @@
+[06-May-2016 16:07:03 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:09:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:09:55 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:10:02 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:11:29 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:11:36 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:12:07 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:16:33 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:19:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/login.php on line 2
+[06-May-2016 16:20:15 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 3
+[06-May-2016 16:21:31 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:23:16 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:24:44 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:25:38 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:26:17 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:26:21 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:26:33 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:26:57 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 3
+[06-May-2016 16:28:08 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 11
+[06-May-2016 16:28:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 15
+[06-May-2016 16:29:19 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 16
+[06-May-2016 16:29:36 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 21
+[06-May-2016 16:30:03 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 38
+[06-May-2016 16:31:11 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 16:33:07 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 16:34:18 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 16:35:08 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 16:35:38 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 29
+[06-May-2016 16:35:52 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 29
+[06-May-2016 16:37:22 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 16:41:03 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 9
+[06-May-2016 16:41:17 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 2
+[06-May-2016 17:09:39 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 17:09:46 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[06-May-2016 17:10:11 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[07-May-2016 11:11:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
+[07-May-2016 11:12:38 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/raja7466/public_html/school_messenger/api/noticelist.php on line 8
